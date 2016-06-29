@@ -1,0 +1,38 @@
+header {
+	text-align:  center;
+
+}
+ hr {
+    border: none; 
+    background-color: grey; 
+        height: 5px; 
+   }
+   .in  {
+   	text-align: center;
+
+
+  }
+
+.box1 { 
+    
+     color: #202020;
+    width: 300px; /* Ширина блока */
+    padding: 10px; /* Поля */
+    border: 2px solid blue; /* Параметры рамки */
+    margin-left: 37%;
+ 
+    background: url(2.png);
+   }
+
+
+
+.box2 { 
+    
+     color: #F0F0F0;
+    width: 300px; /* Ширина блока */
+    padding: 10px; /* Поля */
+    border: 2px solid #654; /* Параметры рамки */
+    margin-left: 38%;
+     background: url(2.png);
+   }
+
